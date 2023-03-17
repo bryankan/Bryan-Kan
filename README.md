@@ -1,9 +1,10 @@
 - 👋 Hi, I’m @Bryan-Kan
-- 👀 I’m interested in front end, Machine learning
-- 🌱 I’m currently learning tensorflow
+- 👀 I’m interested in Front End, Data analysis, Machine learning
+- 📫 You could reach me via email kantongyi1997@outlook.com
 <!---
+- 🌱 I’m currently learning tensorflow
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+
 --->
 
 <!---
